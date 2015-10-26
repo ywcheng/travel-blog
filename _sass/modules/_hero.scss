@@ -4,9 +4,10 @@
 
 .hero {
 	height: 335px;
-	background: url('#{$path--rel}/bg-main.jpg'),
+	background: url('https://c1.staticflickr.com/5/4034/4670076015_429ef0f1cc_b.jpg');
+	/*background: url('#{$path--rel}/bg-main.jpg'),
 	            linear-gradient(#75da8f, #77cae9);
-	background-blend-mode: multiply;
+	background-blend-mode: multiply;*/
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: em(50px);
