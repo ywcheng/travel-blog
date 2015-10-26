@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Travel Blog
+email: yuahwen.cheng@gmail.com
+description: Treehouse project ref. https://teamtreehouse.com/library/create-a-jekyll-site-on-github
+baseurl: "/travel-blog"
+#url: ""
+twitter_username: a1985256
+avatar: "https://pbs.twimg.com/profile_images/619910720008794112/t81GuBaU.jpg" # Set footer avatar - twitter profile image
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Yueh-Wen. Cheng" # Set default author name
+      categories: "palces"
       layout: "post"
       comments: true
   -
